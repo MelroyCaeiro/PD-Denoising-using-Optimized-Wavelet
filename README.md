@@ -1,5 +1,5 @@
 # PD-Denoising-using-Optimized-Wavelet
-## *Partial Discharge Denoising Using Optimized Wavelet*
+## *Partial Discharge Denoising Using Optimized Wavelet-Based Technique*
 
 - ***MainFunction.ipynb*** runs all three parts/steps of the denoising technique [listed below].
 - ***Preprocessing.ipynb*** performs preprocessing of the PD signal; extracting PD pulses & outputting clean & noisy signals
