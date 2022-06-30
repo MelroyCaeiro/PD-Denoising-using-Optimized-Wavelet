@@ -8,7 +8,7 @@ Note: Project repository has yet to be updated. Work in progress
 - ***NSGA2.ipynb*** performs the NSGA2 optimization to determine the best wavelet denoising parameters.
 - ***Denoising.ipynb*** performs the optimized wavelet denoising on the noise-contaminated PD pulses.
 
-# Objective Space
+# NSGA-II Objective Space
 ![Objective Space of NSGA-II](https://github.com/MelroyCaeiro/PD-Denoising-using-Optimized-Wavelet/blob/main/Corona1_Pulse1_-10dB_01.png)
 
 # Denoised PD Pulse Train Example
